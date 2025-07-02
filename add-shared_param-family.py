@@ -4,7 +4,7 @@ from Autodesk.Revit.UI.Selection import ObjectType
 from Autodesk.Revit.Exceptions import InvalidOperationException
 
 
-__title__ = 'Nuvolo\n Shared Parameters'
+
 
 # Get current doc and app
 uidoc = __revit__.ActiveUIDocument
